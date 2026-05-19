@@ -1,4 +1,4 @@
-# Software Exercise Python
+# Software Exercise Python - QQ EXERCISE MATERIAL NOT FOR DISTRIBUTION
 
 ## Note from assessor
 
@@ -31,6 +31,8 @@ Additionally, when it was previously working, it didn't seem to be producing the
 They have provided you with their testing data, and verified correct values from their extant tool, [in the test data file provided](test_data.md).
 
 The customer has asked you to investigate the issues in the program, and provide delivery information for the [three customers they have provided](./customers.json) as an acceptance test.
+
+Please can you fix and test the code and provide a user friendly way of getting the transport costs and times for the 3 customer sites.
 
 ## Useful Details
 
